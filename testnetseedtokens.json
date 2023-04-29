@@ -1,5 +1,28 @@
 [
     {
+        "symbol": "INRX",
+        "name": "INRX",
+        "token_address": "0xDD9a71c92bBf35A2546321A82C88C02a00E27B44",
+        "decimal": 18,
+        "supply": "21M",
+        "protocol": "Blockchain",
+        "type": "Bep20",
+        "price_inr": 0,
+        "direction_inr": "down",
+        "icon": "https://inrx.io/img/logo/white@72x.png",
+        "isVerified": true,
+        "ispaired_busd": true,
+        "ispaired_btc": true,
+        "ispaired_bnb": true,
+        "ispaired_inrx": false,
+        "decimalLimit": {
+            "busd": 2,
+            "btc": 2,
+            "bnb": 2,
+            "inrx": 2
+        }
+    },
+    {
         "symbol": "BNB",
         "name": "Bep20 BNB",
         "token_address": "0x0de8fcae8421fc79b29ade9fff97854a424cad09",
