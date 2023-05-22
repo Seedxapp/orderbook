@@ -42,7 +42,7 @@
     "ispaired_busd": true,
     "ispaired_btc": true,
     "ispaired_bnb": true,
-    "ispaired_inrx": true,
+    "ispaired_inrx": false,
     "decimalLimit": {
       "busd": 2,
       "btc": 2,
@@ -329,7 +329,7 @@
       "bnb": 4,
       "inrx": 2
     },
-    "isautotrade": false,
+    "isautotrade": true,
     "mim_volume": 10,
     "max_volume": 50,
     "min_price": 5,
@@ -665,7 +665,7 @@
       "bnb": 6,
       "inrx": 2
     },
-    "isautotrade": false,
+    "isautotrade": true,
     "mim_volume": 10,
     "max_volume": 50,
     "min_price": 5,
@@ -805,7 +805,7 @@
       "bnb": 4,
       "inrx": 2
     },
-    "isautotrade": false,
+    "isautotrade": true,
     "mim_volume": 10,
     "max_volume": 50,
     "min_price": 5,
