@@ -49,7 +49,7 @@
       "bnb": 2,
       "inrx": 2
     },
-    "isautotrade": false,
+    "isautotrade": true,
     "mim_volume": 10,
     "max_volume": 50,
     "min_price": 5,
