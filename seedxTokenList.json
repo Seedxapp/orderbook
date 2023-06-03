@@ -1,7 +1,7 @@
 [
   {
     "symbol": "BNB",
-    "name": "Bep20 BNB",
+    "name": "BNB",
     "token_address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
     "decimal": 18,
     "supply": "21M",
@@ -57,7 +57,7 @@
   },
   {
     "symbol": "BTC",
-    "name": "BTC Token",
+    "name": "Bitcon",
     "token_address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
     "supply": "21M",
     "protocol": "Blockchain",
@@ -197,7 +197,7 @@
   },
   {
     "symbol": "DOGE",
-    "name": "Dogecoin Token",
+    "name": "Dogecoin",
     "token_address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
     "supply": "132.67B",
     "protocol": "POA Blockchain",
@@ -225,7 +225,7 @@
   },
   {
     "symbol": "ADA",
-    "name": "Cardano Token",
+    "name": "Cardano",
     "token_address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
     "supply": "45B",
     "protocol": "POA Blockchain",
@@ -253,7 +253,7 @@
   },
   {
     "symbol": "DOT",
-    "name": "Polkadot Token",
+    "name": "Polkadot",
     "token_address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
     "supply": "1B",
     "protocol": "Blockchain",
@@ -309,7 +309,7 @@
   },
   {
     "symbol": "LTC",
-    "name": "Litecoin Token",
+    "name": "Litecoin",
     "token_address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
     "supply": "84B",
     "protocol": "POW Blockchain",
@@ -337,7 +337,7 @@
   },
   {
     "symbol": "SHIB",
-    "name": "SHIBA INU Token",
+    "name": "SHIBA INU",
     "token_address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
     "supply": "1 quadrillion tokens",
     "protocol": "Token",
@@ -393,7 +393,7 @@
   },
   {
     "symbol": "ETH",
-    "name": "Ethereum Token",
+    "name": "Ethereum",
     "token_address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
     "supply": "21M",
     "protocol": "blockchain",
@@ -421,7 +421,7 @@
   },
   {
     "symbol": "AVAX",
-    "name": "Avalanche Token",
+    "name": "Avalanche",
     "token_address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
     "supply": "720M",
     "protocol": "blockchain",
@@ -449,7 +449,7 @@
   },
   {
     "symbol": "LINK",
-    "name": "ChainLink Token",
+    "name": "ChainLink",
     "token_address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
     "supply": "1B",
     "protocol": "link protocol",
@@ -477,7 +477,7 @@
   },
   {
     "symbol": "ATOM",
-    "name": "Cosmos Token",
+    "name": "Cosmos",
     "token_address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
     "supply": "286.37M",
     "protocol": "IBC protocol",
@@ -505,7 +505,7 @@
   },
   {
     "symbol": "ETC",
-    "name": "Ethereum Classic",
+    "name": "Ethereum",
     "token_address": "0x3d6545b08693daE087E957cb1180ee38B9e3c25E",
     "supply": "210.7M",
     "protocol": "blockchain",
@@ -533,7 +533,7 @@
   },
   {
     "symbol": "BTT",
-    "name": "BitTorrent Token",
+    "name": "BitTorrent",
     "token_address": "0x8595F9dA7b868b1822194fAEd312235E43007b49",
     "supply": "990,000B",
     "protocol": "BTFS protocol",
@@ -561,7 +561,7 @@
   },
   {
     "symbol": "BCH",
-    "name": "Bitcoin Cash Token",
+    "name": "Bitcoin Cash",
     "token_address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
     "supply": "21M",
     "protocol": "blockchain protocol",
@@ -645,7 +645,7 @@
   },
   {
     "symbol": "FLOW",
-    "name": "FLOW Token",
+    "name": "FLOW",
     "token_address": "0xC943c5320B9c18C153d1e2d12cC3074bebfb31A2",
     "supply": "1.37B",
     "protocol": "FLOW Protocol",
@@ -673,7 +673,7 @@
   },
   {
     "symbol": "EGLD",
-    "name": "Elrond Token",
+    "name": "Elrond",
     "token_address": "0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe",
     "supply": "23.95M",
     "protocol": "Elrond protocol",
@@ -729,7 +729,7 @@
   },
   {
     "symbol": "USDP",
-    "name": "Dollar Token",
+    "name": "Dollar",
     "token_address": "0xb3c11196A4f3b1da7c23d9FB0A3dDE9c6340934F",
     "supply": "352.17M",
     "protocol": "Stable coin",
@@ -757,7 +757,7 @@
   },
   {
     "symbol": "XTZ",
-    "name": "Tezos Token",
+    "name": "Tezos",
     "token_address": "0x16939ef78684453bfDFb47825F8a5F714f12623a",
     "supply": "762M",
     "protocol": "Blockchain",
@@ -785,7 +785,7 @@
   },
   {
     "symbol": "AAVE",
-    "name": "Aave Token",
+    "name": "Aave",
     "token_address": "0xfb6115445Bff7b52FeB98650C87f44907E58f802",
     "supply": "16M",
     "protocol": "Defi",
@@ -813,7 +813,7 @@
   },
   {
     "symbol": "TUSD",
-    "name": "TrueUSD Token",
+    "name": "TrueUSD",
     "token_address": "0x14016E85a25aeb13065688cAFB43044C2ef86784",
     "supply": "845.96M",
     "protocol": "Stable coin",
@@ -841,7 +841,7 @@
   },
   {
     "symbol": "AXS",
-    "name": "Axie Infinity Shard Token",
+    "name": "Axie Infinity Shard",
     "token_address": "0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0",
     "supply": "270M",
     "protocol": "Blockchain",
@@ -869,7 +869,7 @@
   },
   {
     "symbol": "SNX",
-    "name": "Synthetix Network Token",
+    "name": "Synthetix Network",
     "token_address": "0x9Ac983826058b8a9C7Aa1C9171441191232E8404",
     "supply": "249.48M",
     "protocol": "Synthetix Protocol",
@@ -897,7 +897,7 @@
   },
   {
     "symbol": "ZEC",
-    "name": "Zcash Token",
+    "name": "Zcash",
     "token_address": "0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb",
     "supply": "21M",
     "protocol": "Blockchain",
@@ -953,7 +953,7 @@
   },
   {
     "symbol": "XEC",
-    "name": "eCash Token",
+    "name": "eCash",
     "token_address": "0x0Ef2e7602adD1733Bfdb17aC3094d0421B502cA3",
     "supply": "19,276.17B",
     "protocol": "eCash protocol",
@@ -981,7 +981,7 @@
   },
   {
     "symbol": "BAT",
-    "name": "Attention Token",
+    "name": "Attention",
     "token_address": "0x101d82428437127bF1608F699CD651e6Abf9766E",
     "supply": "1.5B",
     "protocol": "BAT protocol",
@@ -1009,7 +1009,7 @@
   },
   {
     "symbol": "COMP",
-    "name": "Compound Coin",
+    "name": "Compound",
     "token_address": "0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8",
     "supply": "10M",
     "protocol": "Defi",
@@ -1093,7 +1093,7 @@
   },
   {
     "symbol": "ONT",
-    "name": "Ontology Token",
+    "name": "Ontology",
     "token_address": "0xFd7B3A77848f1C2D67E05E54d78d174a0C850335",
     "supply": "1B",
     "protocol": "Blockchain",
@@ -1121,7 +1121,7 @@
   },
   {
     "symbol": "NFT",
-    "name": "999,990B",
+    "name": "NFT",
     "token_address": "0x1fC9004eC7E5722891f5f38baE7678efCB11d34D",
     "supply": "1B",
     "protocol": "NFT",
@@ -1149,7 +1149,7 @@
   },
   {
     "symbol": "KNC",
-    "name": "Kyber Network Crystal Token",
+    "name": "Kyber Network Crystal",
     "token_address": "0xfe56d5892BDffC7BF58f2E84BE1b2C32D21C308b",
     "supply": "226M",
     "protocol": "Kyber Protocol",
@@ -1205,7 +1205,7 @@
   },
   {
     "symbol": "COTI",
-    "name": "COTI Token",
+    "name": "COTI",
     "token_address": "0xAdBAF88B39D37Dc68775eD1541F1bf83A5A45feB",
     "supply": "2B",
     "protocol": "DAG",
@@ -1233,7 +1233,7 @@
   },
   {
     "symbol": "CTSI",
-    "name": "Cartesi Token",
+    "name": "Cartesi",
     "token_address": "0x8dA443F84fEA710266C8eB6bC34B71702d033EF2",
     "supply": "1B",
     "protocol": "Injective Protocol",
@@ -1261,7 +1261,7 @@
   },
   {
     "symbol": "BAND",
-    "name": "Band Protocol Token",
+    "name": "Band Protocol",
     "token_address": "0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18",
     "supply": "100M",
     "protocol": "Band Protocol",
@@ -1289,7 +1289,7 @@
   },
   {
     "symbol": "CELR",
-    "name": "10 billion",
+    "name": "Celer Network",
     "token_address": "0x1f9f6a696C6Fd109cD3956F45dC709d2b3902163",
     "supply": "100M",
     "protocol": "cross-chain",
@@ -1317,7 +1317,7 @@
   },
   {
     "symbol": "PHA",
-    "name": "Phala Network Token",
+    "name": "Phala Network",
     "token_address": "0x0112e557d400474717056C4e6D40eDD846F38351",
     "supply": "1B",
     "protocol": "DCC protocol",
@@ -1345,7 +1345,7 @@
   },
   {
     "symbol": "ELF",
-    "name": "ELF Token",
+    "name": "ELF",
     "token_address": "0xa3f020a5C92e15be13CAF0Ee5C95cF79585EeCC9",
     "supply": "1B",
     "protocol": "Blockchain",
@@ -1373,7 +1373,7 @@
   },
   {
     "symbol": "BNT",
-    "name": "Bancor Network Token",
+    "name": "Bancor Network",
     "token_address": "0xA069008A669e2Af00a86673D9D584cfb524A42Cc",
     "supply": "69M",
     "protocol": "Defi",
@@ -1401,7 +1401,7 @@
   },
   {
     "symbol": "YFII",
-    "name": "YFII.finance Token",
+    "name": "YFII.finance",
     "token_address": "0x7F70642d88cf1C4a3a7abb072B53B929b653edA5",
     "supply": "69M",
     "protocol": "Defi",
@@ -1429,7 +1429,7 @@
   },
   {
     "symbol": "IDEX",
-    "name": "IDEX Token",
+    "name": "IDEX",
     "token_address": "0x0856978F7fFff0a2471B4520E3521c4B3343e36f",
     "supply": "69M",
     "protocol": "Dex",
@@ -1457,7 +1457,7 @@
   },
   {
     "symbol": "KMD",
-    "name": "Komodo Token",
+    "name": "Komodo",
     "token_address": "0x2003f7ba57Ea956B05B85C60B4B2Ceea9b111256",
     "supply": "200M",
     "protocol": "Blockchain",
@@ -1485,7 +1485,7 @@
   },
   {
     "symbol": "PSG",
-    "name": "Paris Saint-Germain Token",
+    "name": "Paris Saint-Germain",
     "token_address": "0xBc5609612b7C44BEf426De600B5fd1379DB2EcF1",
     "supply": "3.84M",
     "protocol": "Token",
@@ -1513,7 +1513,7 @@
   },
   {
     "symbol": "DF",
-    "name": "dForce Token",
+    "name": "dForce",
     "token_address": "0x4A9A2b2b04549C3927dd2c9668A5eF3fCA473623",
     "supply": "432.03M",
     "protocol": "Satbale coin",
@@ -1541,7 +1541,7 @@
   },
   {
     "symbol": "OM",
-    "name": "MANTRA DAO Token",
+    "name": "MANTRA DAO",
     "token_address": "0xF78D2e7936F5Fe18308A3B2951A93b6c4a41F5e2",
     "supply": "1M",
     "protocol": "DAO",
@@ -1569,7 +1569,7 @@
   },
   {
     "symbol": "JUV",
-    "name": "Juventus Token",
+    "name": "Juventus",
     "token_address": "0xC40C9A843E1c6D01b7578284a9028854f6683b1B",
     "supply": "20M",
     "protocol": "Blockchain",
@@ -1597,7 +1597,7 @@
   },
   {
     "symbol": "ATM",
-    "name": "Atletico de Madrid Token",
+    "name": "Atletico de Madrid",
     "token_address": "0x25E9d05365c867E59C1904E7463Af9F312296f9E",
     "supply": "2.8M",
     "protocol": "Chiliz",
@@ -1625,7 +1625,7 @@
   },
   {
     "symbol": "TORN",
-    "name": "TornadoCash Token",
+    "name": "TornadoCash",
     "token_address": "0x1bA8D3C4c219B124d351F603060663BD1bcd9bbF",
     "supply": "1.5M",
     "protocol": "DAO",
@@ -1653,7 +1653,7 @@
   },
   {
     "symbol": "OG",
-    "name": "OG Token",
+    "name": "OG",
     "token_address": "0xf05E45aD22150677a017Fbd94b84fBB63dc9b44c",
     "supply": "1.76M",
     "protocol": "OG Protocol",
@@ -1709,7 +1709,7 @@
   },
   {
     "symbol": "FIRO",
-    "name": "Firo Token",
+    "name": "Firo",
     "token_address": "0xd5d0322b6bAb6a762C79f8c81A0B674778E13aeD",
     "supply": "11.92M",
     "protocol": "Lelantus privacy protocol",
@@ -1765,7 +1765,7 @@
   },
   {
     "symbol": "SUSHI",
-    "name": "SushiToken",
+    "name": "SushiSwap",
     "token_address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
     "supply": "250M",
     "protocol": "dex",
@@ -1961,7 +1961,7 @@
   },
   {
     "symbol": "ONT",
-    "name": "Ontology Token",
+    "name": "Ontology",
     "token_address": "0xFd7B3A77848f1C2D67E05E54d78d174a0C850335",
     "supply": "875.25M",
     "protocol": "Blockchain",
@@ -2185,7 +2185,7 @@
   },
   {
     "symbol": "ALEPH",
-    "name": "aleph.im v2",
+    "name": "Aleph.im",
     "token_address": "0x82D2f8E02Afb160Dd5A480a617692e62de9038C4",
     "supply": "247.22M",
     "protocol": "cross-blockchain",
@@ -2213,7 +2213,7 @@
   },
   {
     "symbol": "FRONT",
-    "name": "Frontier Token",
+    "name": "Frontier",
     "token_address": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
     "supply": "100M",
     "protocol": "defi",
@@ -2241,7 +2241,7 @@
   },
   {
     "symbol": "PRQ",
-    "name": "Parsiq Token",
+    "name": "Parsiq",
     "token_address": "0xd21d29B38374528675C34936bf7d5Dd693D2a577",
     "supply": "500M",
     "protocol": "Blockchain",
@@ -2269,7 +2269,7 @@
   },
   {
     "symbol": "URUS",
-    "name": "Aurox Token",
+    "name": "Aurox",
     "token_address": "0xc6DdDB5bc6E61e0841C54f3e723Ae1f3A807260b",
     "supply": "1M",
     "protocol": "Defi",
@@ -2297,7 +2297,7 @@
   },
   {
     "symbol": "FOR",
-    "name": "The Force Token",
+    "name": "The Force",
     "token_address": "0x658A109C5900BC6d2357c87549B651670E5b0539",
     "supply": "1B",
     "protocol": "DApp",
@@ -2381,7 +2381,7 @@
   },
   {
     "symbol": "LSS",
-    "name": "Chainport.io-Peg Lossless Token",
+    "name": "Lossless",
     "token_address": "0xf7686F43591302Cd9B4b9c4FE1291473Fae7D9C9",
     "supply": "100M",
     "protocol": "Lossless Protocol",
@@ -2409,7 +2409,7 @@
   },
   {
     "symbol": "HAI",
-    "name": "Hacken Token",
+    "name": "Hacken",
     "token_address": "0xaA9E582e5751d703F85912903bacADdFed26484C",
     "supply": "474.37M",
     "protocol": "Defi",
@@ -2465,7 +2465,7 @@
   },
   {
     "symbol": "BUX",
-    "name": "BUX Token",
+    "name": "BUX",
     "token_address": "0x211FfbE424b90e25a15531ca322adF1559779E45",
     "supply": "57.9M",
     "protocol": "BSC",
@@ -2549,7 +2549,7 @@
   },
   {
     "symbol": "POOLZ",
-    "name": "$Poolz Finance [via ChainPort.io]",
+    "name": "Poolz Finance",
     "token_address": "0x77018282fD033DAF370337A5367E62d8811Bc885",
     "supply": "3.86M",
     "protocol": "Coinbase Wallet",
@@ -2605,7 +2605,7 @@
   },
   {
     "symbol": "FUSE",
-    "name": "Fuse Token on BSC",
+    "name": "Fuse",
     "token_address": "0x5857c96DaE9cF8511B08Cb07f85753C472D36Ea3",
     "supply": "55M",
     "protocol": "POS Blockchain",
@@ -2745,7 +2745,7 @@
   },
   {
     "symbol": "O3",
-    "name": "O3 Swap Token",
+    "name": "O3 Swap",
     "token_address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
     "supply": "51.47M",
     "protocol": "Cross-Chain",
@@ -2773,7 +2773,7 @@
   },
   {
     "symbol": "JGN",
-    "name": "Juggernaut DeFi",
+    "name": "Juggernaut",
     "token_address": "0xC13B7a43223BB9Bf4B69BD68Ab20ca1B79d81C75",
     "supply": "51.47M",
     "protocol": "DeFi",
@@ -2829,7 +2829,7 @@
   },
   {
     "symbol": "FREE",
-    "name": "FREE coin BSC",
+    "name": "FREE coin",
     "token_address": "0x12e34cDf6A031a10FE241864c32fB03a4FDaD739",
     "supply": "10 T",
     "protocol": "Token",
@@ -2885,7 +2885,7 @@
   },
   {
     "symbol": "BCDT",
-    "name": "Blockchain Certified Data Token",
+    "name": "EvidenZ",
     "token_address": "0x8683e604cdf911cD72652a04bf9D571697A86A60",
     "supply": "38M",
     "protocol": "Blockchain",
@@ -3024,7 +3024,7 @@
     "max_price": 5
   },
   {
-    "symbol": "1ART",
+    "symbol": "OneArt",
     "name": "ArtWallet",
     "token_address": "0xD3c325848D7c6E29b574Cb0789998b2ff901f17E",
     "supply": "1 Billion",
@@ -3053,7 +3053,7 @@
   },
   {
     "symbol": "iDNA",
-    "name": "Wrapped Idena",
+    "name": "Idena",
     "token_address": "0x0De08C1AbE5fB86Dd7FD2ac90400AcE305138d5B",
     "supply": "94 Million",
     "protocol": "Idena protocol",
@@ -3109,7 +3109,7 @@
   },
   {
     "symbol": "TUP",
-    "name": "Tenup DAO Token",
+    "name": "TenUp",
     "token_address": "0x63eaEB6E33E11252B10553900a9F38A9ed172871",
     "supply": "200 Million",
     "protocol": "DAO",
@@ -3165,7 +3165,7 @@
   },
   {
     "symbol": "PERI",
-    "name": "Peri Finance Token",
+    "name": "Peri Finance",
     "token_address": "0xb49B7e0742EcB4240ffE91661d2A580677460b6A",
     "supply": "20 Million",
     "protocol": "cross-chain",
@@ -3305,7 +3305,7 @@
   },
   {
     "symbol": "KALM",
-    "name": "Kalmar Token",
+    "name": "Kalmar",
     "token_address": "0x4BA0057f784858a48fe351445C672FF2a3d43515",
     "supply": "10 Million",
     "protocol": "DeFi",
@@ -3417,7 +3417,7 @@
   },
   {
     "symbol": "BIFI",
-    "name": "beefy.finance",
+    "name": "beefy finance",
     "token_address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
     "supply": "80 Thousand",
     "protocol": "DeFi",
@@ -3695,7 +3695,7 @@
   },
   {
     "symbol": "SFUND",
-    "name": "Seedify.fund",
+    "name": "Seedify fund",
     "token_address": "0x477bC8d23c634C154061869478bce96BE6045D12",
     "supply": "100 Billion",
     "protocol": "Blockchain",
@@ -3807,7 +3807,7 @@
   },
   {
     "symbol": "VAI",
-    "name": "VAI Stablecoin",
+    "name": "VAI",
     "token_address": "0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7",
     "supply": "20.66M",
     "protocol": "Stablecoin",
@@ -3919,7 +3919,7 @@
   },
   {
     "symbol": "RACA",
-    "name": "Radio Caca V2",
+    "name": "RACA",
     "token_address": "0x12BB890508c125661E03b09EC06E404bc9289040",
     "supply": "431 Billion",
     "protocol": "USM Public Chain",
@@ -4199,7 +4199,7 @@
   },
   {
     "symbol": "EOS",
-    "name": "Binance-Peg EOS Token",
+    "name": "EOS",
     "token_address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
     "supply": "14.34M",
     "protocol": "Blockchain",
@@ -4311,7 +4311,7 @@
   },
   {
     "symbol": "MATIC",
-    "name": "Matic Token",
+    "name": "Matic",
     "token_address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
     "supply": "59.00M",
     "protocol": "Blockchain",
