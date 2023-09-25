@@ -4864,5 +4864,32 @@
         "min_price": 5,
         "max_price": 5,
         "ispaired_btc": false
+    },
+    {
+        "symbol": "ACL",
+        "name": "ASIAL COIN",
+        "token_address": "0xd932aB69d60133baeb2F2F336eC0322FF23Ba1Fc",
+        "supply": "720M",
+        "protocol": "blockchain",
+        "decimal": 18,
+        "type": "Bep20",
+        "price_inr": 0,
+        "direction_inr": "down",
+        "icon": "https://seedx.app/assets/Logo/ACL.jpeg",
+         "ispaired_busd": false,
+        "ispaired_bnb": true,
+        "ispaired_inrx": false,
+        "decimalLimit": {
+          "busd": 3,
+          "btc": 4,
+          "bnb": 5,
+          "inrx": 2
+        },
+        "isautotrade": true,
+        "mim_volume": 10,
+        "max_volume": 50,
+        "min_price": 5,
+        "max_price": 5,
+        "ispaired_btc": false
     }
 ]
