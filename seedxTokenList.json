@@ -4912,7 +4912,7 @@
           "bnb": 5,
           "inrx": 2
         },
-        "isautotrade": true,
+        "isautotrade": false,
         "mim_volume": 10,
         "max_volume": 50,
         "min_price": 5,
