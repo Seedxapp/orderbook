@@ -4906,6 +4906,7 @@
          "ispaired_busd": true,
         "ispaired_bnb": true,
         "ispaired_inrx": false,
+        "token_type": "self",
         "decimalLimit": {
           "busd": 3,
           "btc": 4,
