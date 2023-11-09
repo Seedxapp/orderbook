@@ -4934,14 +4934,14 @@
         "direction_inr": "down",
         "icon": "https://seedx.app/assets/Logo/gfa-token.png",
         "isVerified": true,
-        "ispaired_busd": true,
-        "ispaired_bnb": false,
+        "ispaired_busd": false,
+        "ispaired_bnb": true,
         "ispaired_inrx": false,
         "token_type": "self",
         "decimalLimit": {
           "busd": 5,
           "btc": 4,
-          "bnb": 5,
+          "bnb": 6,
           "inrx": 2
         },
         "isautotrade": false,
