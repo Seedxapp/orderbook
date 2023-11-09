@@ -4879,8 +4879,9 @@
         "ispaired_busd": false,
         "ispaired_bnb": true,
         "ispaired_inrx": true,
+        "token_type": "self",
         "decimalLimit": {
-          "busd": 3,
+          "busd": 5,
           "btc": 4,
           "bnb": 5,
           "inrx": 2
@@ -4909,7 +4910,7 @@
         "ispaired_inrx": false,
         "token_type": "self",
         "decimalLimit": {
-          "busd": 3,
+          "busd": 5,
           "btc": 4,
           "bnb": 5,
           "inrx": 2
@@ -4934,11 +4935,11 @@
         "icon": "https://seedx.app/assets/Logo/gfa-token.png",
         "isVerified": true,
         "ispaired_busd": true,
-        "ispaired_bnb": true,
-        "ispaired_inrx": true,
+        "ispaired_bnb": false,
+        "ispaired_inrx": false,
         "token_type": "self",
         "decimalLimit": {
-          "busd": 3,
+          "busd": 5,
           "btc": 4,
           "bnb": 5,
           "inrx": 2
